@@ -2,5 +2,6 @@ ipdb==0.13.13
 nptyping==2.5.0
 numpy==1.26.4
 PyJWT==2.8.0
-torch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.1+cpu
 tqdm==4.66.2
