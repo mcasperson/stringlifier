@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="stringlifier",
+    name="stringlifier-newdeps",
     version="0.1.1.4",
     author="Multiple authors",
     author_email="tiberiu44@gmail.com",
